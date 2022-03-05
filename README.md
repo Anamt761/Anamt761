@@ -90,6 +90,13 @@ Teaching Experience
      - Landing page for Airplane company 
      - Landing page for Covid System 
 
+**Research Analysis**
+
+- Project Documentation
+- Problem Solving
+- Design Thinking
+- User Research and Training
+
 **👨‍💻Core Skill Sets Focus Fields ⬇️⬇️**
 
 **📔Microsoft Office**
