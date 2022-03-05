@@ -142,23 +142,23 @@ Teaching Experience
 
 - Cyber Security
 
-    From Pakistan Freelancing Training Program
+        From Pakistan Freelancing Training Program
    
 - Penetrating Testing
 
-    From Pakistan Freelancing Training Program
+        From Pakistan Freelancing Training Program
     
 - Web Design & Development
 
-    From Infosys Academy, Sargodha
+        From Infosys Academy, Sargodha
     
 - WordPress
 
-    From E-Rozgar Training Program
+        From E-Rozgar Training Program
     
 - Canva Graphics Designer
 
-    From Canva.com 200 Designs Certification
+        From Canva.com 200 Designs Certification
     
 **🎓Activities | Awards & Honor**                               
 
